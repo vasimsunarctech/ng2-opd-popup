@@ -21,6 +21,10 @@
     "host": "packages-12-west.internal.npmjs.com",
     "tmp": "tmp/ng2-opd-popup-1.1.21.tgz_1490699950124_0.7393909764941782"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vasimsunarctech/ng2-opd-popup.git"
+  },
   "_npmUser": {
     "name": "opdahlmann",
     "email": "olepetter@dahlmann.no"
